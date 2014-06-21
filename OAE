@@ -1,0 +1,8 @@
+Write a program to print the numbers between 1 and 100, along with an indication of whether each is even or odd, like this:
+
+	1 is odd
+	2 is even
+	3 is odd
+	...
+	
+(Hint: use the % operator.)
